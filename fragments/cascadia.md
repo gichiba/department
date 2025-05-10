@@ -1,4 +1,4 @@
-# Casting the ballot
+# An Unsealed Ballot 
 
 ## Capturing the Moment
 
@@ -32,7 +32,7 @@ I pulled the K1000 out, noted the room's new lighting, composed the shot, and wa
 
 "This ballot failed to mark, because the voter made thin little check-marks indicating their vote, and the Scantrons need a clear, filled-in bubble in order to scan properly."  
 
-"Now we can see that the voter's preferences are all still discernable; they only marked a single choice on every line of the ballot, or no marks indicating no preference, which we all remember from the commercials is everyone's right." 
+"Now we can see that the voter's preferences are all still discernible; they only marked a single choice on every line of the ballot, or no marks indicating no preference, which we all remember from the commercials is everyone's right." 
 
 As he said this, he held the ballot up next to his own face and grinned at the observers sitting in the front row of the bleachers, who were half-standing to see the marks on the skinny paper card. I pressed the shutter.
 

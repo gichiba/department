@@ -1,7 +1,7 @@
 # World Axioms
 
 1. Time is a three-dimensional vector space. Not an arrow, but a donut.
-   1a. The first dimension is motion through classic spacetime.
+   1a. The first dimension is motion through classic spacetime, or *duration*.
    1b. The second dimension is motion through assembly space, or *novelty*. 
    1c. The third dimension is motion through normative possibility space, or *will*. 
 

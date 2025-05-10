@@ -2,7 +2,7 @@
 
 The values matrix is important because within its bounded infinity are vectors that together define how the world ends. Or, depending on your philosophical outlook: how it might end, how it could end, how it does end.
 
-The the values matrix is technically called a causal/temporal invariant; it's a quantum chip keeping tabs on more dimensions than we can see. From our limited perspective in time, a synced VM never changes. Whenever you give it a "real" input, after some filtering and transformation, you'll discover that the "right" output is there — and more eerily, *it always has been there*. 
+The the values matrix is technically called a causal/temporal invariant; it's a quantum chip keeping tabs on more dimensions than we have a knack for imagining. From our limited perspective in time, a synced VM never changes. Whenever you give it a "real" input, after some filtering and transformation, you'll discover that the "right" output is there — and more eerily, *it always has been there*. 
 
 The chips are expensive (getting cheaper), but if you posses one and sync the world state once, your values matrix will always be the same, *without the need to sync again*. A node with the Values Matrix might forget the state of the world, but the VM will always give you outputs that can later be checked against the outcomes contract for a paystream. Even as it remains 'disconnected' from any network. 
 
